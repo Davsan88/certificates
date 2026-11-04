@@ -4,7 +4,8 @@ A collection of my certifications and course completion certificates in front-en
 
 ## Front-end development
 
-- Scrimba — The Frontend Developer Path · In progress
+- [Scrimba — The Frontend Developer Path](Front-end%20development/David%20Sanchez%20-%20Frontend%20Developer%20Path%20Certificate%20of%20Completion%20-%20Scrimba.pdf) · Certificate of Completion awarded, 2026
+  - Curriculum: 1,494 lessons and 81.6 hours of content, plus coding challenges and solo projects. Covers HTML, CSS, JavaScript, React, accessibility, responsive design, and working with APIs.
 - [Scrimba — Learn React](Front-end%20development/David%20Sanchez%20-%20React%20Certificate%20of%20Completion%20-%20Scrimba.pdf)
 - [Scrimba — Learn JavaScript](Front-end%20development/David%20Sanchez%20-%20JavaScript%20Certificate%20of%20Completion%20-%20Scrimba.pdf)
 - [Scrimba — Learn HTML and CSS](Front-end%20development/David%20Sanchez%20-%20HTML%20and%20CSS%20Certificate%20of%20Completion%20-%20Scrimba.pdf)
